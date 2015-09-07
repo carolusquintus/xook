@@ -1,13 +1,14 @@
 # xook
 Xook pretends to be a multi-platform project to edit, create, or convert EPUB books.
 
-Pronunciacion maya
+Pronunciacion maya:
 https://www.youtube.com/watch?v=c5EgkTbau2o
 
-Diccionario Básico Español.Maya.Español
+Diccionario Básico Español.Maya.Español:
 http://www.mayas.uady.mx/diccionario/l_esp.html
 
-DICCIONARIO ESPAÑOL-MAYA
+DICCIONARIO ESPAÑOL-MAYA:
 http://cenei.uqroo.mx/diccionario.html#l
 
-IPA Sounds
+IPA Sounds:
+http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm
