@@ -1,7 +1,8 @@
-# xook Mayan pronunciation: [ʃoːk])
+# xook 
+Mayan pronunciation: [ʃoːk])
 Xook pretends to be a multi-platform project to edit, create, or convert EPUB books.
 
-IPA for Mayan
+IPA for Mayan:
 https://en.wikipedia.org/wiki/Help:IPA_for_Mayan
 
 Pronunciacion maya:
