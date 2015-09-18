@@ -1,18 +1,15 @@
 # xook [ʃoːk]
-Mayan pronunciation: [ʃoːk]
+
+####### Mayan pronunciation: **[ʃoːk]**
+
 Xook pretends to be a multi-platform project to edit, create, or convert EPUB books.
 
-IPA for Mayan:
-https://en.wikipedia.org/wiki/Help:IPA_for_Mayan
+[IPA for Mayan](https://en.wikipedia.org/wiki/Help:IPA_for_Mayan)
 
-Pronunciacion maya:
-https://www.youtube.com/watch?v=c5EgkTbau2o
+[IPA Sounds](http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm)
 
-Diccionario Básico Español.Maya.Español:
-http://www.mayas.uady.mx/diccionario/l_esp.html
+[Pronunciacion maya](https://www.youtube.com/watch?v=c5EgkTbau2o)
 
-DICCIONARIO ESPAÑOL-MAYA:
-http://cenei.uqroo.mx/diccionario.html#l
+[Diccionario Básico Español.Maya.Español](http://www.mayas.uady.mx/diccionario/l_esp.html)
 
-IPA Sounds:
-http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm
+[DICCIONARIO ESPAÑOL-MAYA](http://cenei.uqroo.mx/diccionario.html#l)
