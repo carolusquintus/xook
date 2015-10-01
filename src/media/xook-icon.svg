@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240"
+   height="240"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="xook-icon-5.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="51.394258"
+     inkscape:cy="119.0839"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:window-width="1875"
+     inkscape:window-height="1056"
+     inkscape:window-x="45"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="2"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="10px"
+       spacingy="10px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="guia"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-812.36218)"
+     style="display:none">
+    <g
+       id="g2989"
+       style="fill:#c7f2e5;fill-opacity:1">
+      <rect
+         transform="translate(0,812.36218)"
+         y="0"
+         x="0"
+         height="80"
+         width="80"
+         id="rect2987"
+         style="fill:#c7f2e5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <rect
+       style="fill:#c7f2e5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3766"
+       width="80"
+       height="80"
+       x="80"
+       y="80"
+       transform="translate(0,812.36218)" />
+    <rect
+       style="fill:#c7f2e5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3768"
+       width="80"
+       height="80"
+       x="160"
+       y="160"
+       transform="translate(0,812.36218)" />
+    <rect
+       style="fill:#c7f2e5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3770"
+       width="80"
+       height="80"
+       x="0"
+       y="160"
+       transform="translate(0,812.36218)" />
+    <rect
+       style="fill:#c7f2e5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3772"
+       width="80"
+       height="80"
+       x="160"
+       y="0"
+       transform="translate(0,812.36218)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="x5">
+    <path
+       style="fill:#aa0000;stroke:#aa0000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,0 0,40 c 0,0 90,30 90,90 0,0 -90,10 -90,70 l 0,40 40,0 c 0,0 30,-90 90,-90 0,0 10,90 70,90 l 40,0 0,-40 c 0,0 -90,-30 -90,-90 0,0 90,-10 90,-70 l 0,-40 -40,0 c 0,0 -30,90 -90,90 0,0 -10,-90 -70,-90 z"
+       id="path3771"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
